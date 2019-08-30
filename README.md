@@ -8,3 +8,5 @@ Felipe Vieira Adduci RA 1900182
 5 - commit
 6 - push
 7 - pull
+8 - Fazendo Fetch
+
